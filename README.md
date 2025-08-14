@@ -23,14 +23,14 @@
 Add SwiftBloc to your project using Xcode:
 
 1. File → Add Package Dependencies
-2. Enter package URL: `https://github.com/yourusername/SwiftBloc`
+2. Enter package URL: `https://github.com/anirudhsingh8/swift_bloc`
 3. Select version and add to target
 
 Or add to your `Package.swift`:
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/yourusername/SwiftBloc", from: "1.0.0")
+    .package(url: "https://github.com/anirudhsingh8/swift_bloc", from: "1.0.0")
 ]
 ```
 
